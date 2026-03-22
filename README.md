@@ -103,5 +103,5 @@ Our mission is to bridge the gap between **theory and real-world AI ML and Compu
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/emojo/Hands-Onyour-repo-name.git
-cd your-repo-name
+git clone https://github.com/emojo/Hands-On-AI-ML-Learn-by-Doing
+
