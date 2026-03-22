@@ -17,10 +17,10 @@ At **eMojo Consulting and Services**, we specialize in:
 - 🗣️ Natural Language Processing (NLP)
 
 Our mission is to bridge the gap between **theory and real-world AI ML and Computer Vision applications**.
-
+---
 ### 📞 Contact
-🌐 Website: **https://ksingh.pythonanywhere.com/**
-📧 Email: **emojo.solutions@gmail.com**
+- 🌐 Website: **https://ksingh.pythonanywhere.com/**
+- 📧 Email: **emojo.solutions@gmail.com**
 <!--💼 LinkedIn: https://linkedin.com/company/yourcompany-->
 
 
