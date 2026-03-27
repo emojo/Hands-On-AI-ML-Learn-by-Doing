@@ -3,8 +3,8 @@
 Welcome to **eMojo Consulting and Services** – Empowering the future with Artificial Intelligence & Machine Learning.
 
 We provide industry-focused training, real-world projects, and end-to-end AI solutions for students, professionals, and enterprises.
-
-![How Neurons looks and work in AI](emojo/Hands-On-AI-ML-Learn-by-Doing/neurons.png)
+---
+![How Neurons looks and work in AI](neurons.png)
 
 ---
 
