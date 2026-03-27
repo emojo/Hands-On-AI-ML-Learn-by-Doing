@@ -3,7 +3,8 @@
 Welcome to **eMojo Consulting and Services** – Empowering the future with Artificial Intelligence & Machine Learning.
 
 We provide industry-focused training, real-world projects, and end-to-end AI solutions for students, professionals, and enterprises.
----
+How Artificial Neurons looks like and how these Neurons works !!! WoW right !!! These are the Digital/Artificial Neurons which works hard to learn, and create AI Models for business cases.
+:---:
 ![How Neurons looks and work in AI](neurons.png)
 
 ---
@@ -36,10 +37,11 @@ Our mission is to bridge the gap between **theory and real-world AI ML and Compu
 - Industry-Oriented Curriculum
 - Internship Programs
 
-### 🧪 Projects
+### 🧪 Real Work Projects and Consultancy
 - Real-world datasets (Satellite, Drone, Healthcare)
 - End-to-End AI pipelines
 - Deployment (Flask, FastAPI, Cloud)
+- IoT
 
 ### 🏢 Corporate Training
 - Customized AI solutions
